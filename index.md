@@ -1,8 +1,6 @@
 ## {design	& build}
 
 
-### Find me on
-
-@pyemachine on most socials 
+### Find me on @pyemachine on most of the socials 
 
 
